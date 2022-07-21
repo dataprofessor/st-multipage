@@ -1,4 +1,4 @@
 import streamlit as st
 
 def test():
-    st.write('Test works successfully!')
+    st.info('Test works successfully!')
